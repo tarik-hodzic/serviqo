@@ -113,4 +113,4 @@ Serviqo was developed for educational purposes and is not intended to represent 
 
 ---
 
-Created by **Tarik Hodžić and Faris Karkelja*
+Created by **Tarik Hodžić and Faris Karkelja**
