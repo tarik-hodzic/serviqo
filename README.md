@@ -111,6 +111,6 @@ It focuses on QR-based restaurant services, digital ordering, table reservations
 
 Serviqo was developed for educational purposes and is not intended to represent a production-ready restaurant management system.
 
----
+## Authors
 
 Created by **Tarik Hodžić and Faris Karkelja**
